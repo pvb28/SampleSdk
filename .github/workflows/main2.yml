@@ -14,5 +14,5 @@ jobs:
       env:
         COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPODS_TRUNK_TOKEN }}
       run: |
-        pod trunk push VeeraSampleSdk.podspec
+        pod trunk push VeeraSampleSdk.podspec --skip-import-validation --allow-warnings
         echo uploaded to cocoapods
