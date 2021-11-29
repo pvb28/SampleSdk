@@ -1,4 +1,4 @@
-# ``SampleSdk_MacOS``
+# ``SampleSdk_macOS``
 
 <!--@START_MENU_TOKEN@-->Summary<!--@END_MENU_TOKEN@-->
 
