@@ -1,6 +1,0 @@
-framework module SampleSdk {
-  umbrella header "SampleSdk.h"
-
-  export *
-  module * { export * }
-}
