@@ -6,7 +6,6 @@ UserInterfaceState.xcuserstate
 /build/
 *.lock
 /Podfile
-/SampleSdk/
 /SampleSdkTests/
 
 
