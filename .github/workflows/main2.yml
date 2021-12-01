@@ -1,7 +1,8 @@
 name: CI
 on:
   release:
-    types: [published, released]
+    types:
+      - created
   
     
 jobs:
