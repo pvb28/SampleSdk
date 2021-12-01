@@ -1,10 +1,10 @@
 Pod::Spec.new do |spec|
     spec.name          = 'VeeraSampleSdk'
-    spec.version       = '0.3'
+    spec.version       = '0.4'
     spec.license       = { :type => 'MIT' }
     spec.homepage      = 'https://github.com/pvb28/SampleSdk'
     spec.authors       = { 'Veera' => 'veerabrahmampydimarri28@gmail.com' }
-    spec.summary       = 'It is a SampleSdk contains a single func customPrint built for any ios device'
+    spec.summary       = 'It is a SampleSdk contains a single func customPrint, testing with tag version 0.4'
     spec.source        = { :git => 'https://github.com/pvb28/SampleSdk.git', :tag => spec.version }
     spec.module_name   = 'SampleSdk'
     spec.swift_version = '4.0'
