@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
     spec.source        = { :git => 'https://github.com/pvb28/SampleSdk.git', :tag => spec.version }
     spec.module_name   = 'SampleSdk'
     spec.swift_version = '4.0'
-    spec.vendored_frameworks = 'SampleSdk.xcframework'
+    spec.vendored_frameworks = 'APM.xcframework'
 
     spec.ios.deployment_target  = '9.0'
     spec.osx.deployment_target  = '10.10'
