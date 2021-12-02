@@ -1,6 +1,0 @@
-framework module APM {
-  umbrella header "APM.h"
-
-  export *
-  module * { export * }
-}
