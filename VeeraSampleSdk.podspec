@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name          = 'VeeraSampleSdk'
-    spec.version       = '0.6'
+    spec.version       = '0.7'
     spec.license       = { :type => 'MIT' }
     spec.homepage      = 'https://github.com/pvb28/SampleSdk'
     spec.authors       = { 'Veera' => 'veerabrahmampydimarri28@gmail.com' }
