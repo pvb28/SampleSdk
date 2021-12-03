@@ -1,8 +1,7 @@
 name: CI
 on:
-  workflow_dispatch:
   release:
-    types: [ created, published]
+    types: [created, published]
     
   
     
